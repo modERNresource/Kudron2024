@@ -5,4 +5,4 @@ scripts:
 
 inferred_motifs:
 - All inferred motifs using different input subsets. See more from the readme file in the folder.
-- Be aware that the total size of the folder is ~2.1 Gb.
+- **Warning**: The total size of the folder is ~2.1 Gb.
